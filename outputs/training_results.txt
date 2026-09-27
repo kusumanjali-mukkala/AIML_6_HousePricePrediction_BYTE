@@ -1,0 +1,10 @@
+Linear Regression House Price Prediction
+========================================
+
+Training samples: 16512
+Testing samples: 4128
+
+MAE: 0.5332
+MSE: 0.5559
+RMSE: 0.7456
+R2 Score: 0.5758
