@@ -21,7 +21,7 @@ The complete workflow includes:
 - Visualizing actual vs predicted values
 - Analyzing prediction residuals
 
----
+----
 
 ## 🎯 Objective
 
